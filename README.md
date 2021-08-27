@@ -1,0 +1,1 @@
+# pulumi_auto_naming
